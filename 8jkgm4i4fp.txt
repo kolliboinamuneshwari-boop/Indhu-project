@@ -1,0 +1,8 @@
+proper a documention for mini project which is used base 44 ai tool
+
+project title:Digital Electronics Tutor Chatbot
+
+project link:https://logic-tutor-hub.base44.app
+
+to post in git hub link in a pdf formate 
+https://github.com/kolliboinamuneshwari-boop/Indhu-project/upload - git hub depository link
